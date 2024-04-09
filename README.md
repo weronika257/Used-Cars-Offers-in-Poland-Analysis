@@ -19,7 +19,7 @@
 
 ## Project Overview
 
-This project dives deep into analyzing the Polish used car market in July 2023 using data from a popular online platform for car sales. Through this analysis, we uncover key insights about which car brands are most common, the specific models people are buying, and whether they prefer older or newer cars. We also look into whether people prefer manual or automatic transmissions, which fuel types are most popular, and how mileage affects the price of a car. Additionally, we explore how car availability varies across different parts of Poland. Lastly, we examine how the year a car was made influences its price.
+This project dives deep into analyzing the Polish used car market in June 2023 using data from a popular online platform for car sales. Through this analysis, we uncover key insights about which car brands are most common, the specific models people are buying, and whether they prefer older or newer cars. We also look into whether people prefer manual or automatic transmissions, which fuel types are most popular, and how mileage affects the price of a car. Additionally, we explore how car availability varies across different parts of Poland. Lastly, we examine how the year a car was made influences its price.
 
 Created dashboards allow for data filtering by selecting the car brand, manufacture year, fuel type and gearbox type.
 
